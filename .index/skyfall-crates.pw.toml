@@ -1,0 +1,21 @@
+filename = 'skyfall_crates-1.0.4.jar'
+name = 'Skyfall: Crates'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'skyfall_crates-1.0.4.jar'
+
+[download]
+hash = 'ae7729a14f94ce86aaa500af94a58572f6486f88'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7757988
+project-id = 1472897
+
+[[x-prismlauncher-dependencies]]
+addonId = '1471302'
+type = 'REQUIRED'
